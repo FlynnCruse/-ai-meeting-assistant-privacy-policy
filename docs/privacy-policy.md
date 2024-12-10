@@ -8,7 +8,7 @@ This Privacy Policy describes how AI Assistant for Auto Recording ("AIAAR", "we"
 
 ## Information We Collect
 
-We collect the following types of information:
+The extension collects the following types of information:
 
 ### Personal Communications
 - Meeting transcripts from Google Meet conversations
@@ -19,7 +19,7 @@ We collect the following types of information:
 ### User Activity
 - Meeting status detection
 - Caption availability status
-- No keystroke logging, mouse tracking, or broader activity monitoring
+- No keystroke logging, mouse tracking, or broader activity monitoring is collected
 
 ### Website Content
 - Text content (transcripts) from Google Meet sessions
@@ -36,21 +36,21 @@ We use the collected information solely for:
 ## Data Storage and Security
 
 - Meeting transcripts are processed in real-time and stored temporarily in your browser
-- Permanent storage only occurs when you choose to export transcripts
-- Your Groq API key is stored securely in Chrome's local storage
-- No data is shared with third parties except for AI processing through Groq
+- Permanent storage only occurs when you choose to export transcripts; and then is stored on your system
+- Your (groq, openai, gemini) API key(s) are stored securely in Chrome's local storage
+- No data is shared with third parties except for AI processing through service providers
 
 ## Third-Party Services
 
-We use Groq's API for AI analysis. Their use of your data is governed by their privacy policy.
+We use third party API's (groq, openai, gemini) for AI analysis. Their use of your data is governed by their privacy policies.
 
 ## Your Rights
 
 You have the right to:
 - Enable or disable the extension at any time
-- Control when transcription starts and stops
-- Export or delete your meeting transcripts
-- Manage your stored preferences
+- Control when transcription starts and stops - via toggling on/off closed captions.
+- Export your meeting transcripts or allow the extension to delete them
+- Query the transcript for any information you need via the AI analysis page or query tool
 
 ## Changes to This Policy
 
@@ -58,4 +58,4 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy, please create an issue in our GitHub repository. 
+If you have any questions about this Privacy Policy, please contact us. 
